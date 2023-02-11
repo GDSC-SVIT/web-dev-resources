@@ -4,6 +4,11 @@
 https://codedamn.com/learning-paths/frontend
 
 ## Learning Resources
+### How the web works?
+https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/
+<br>
+https://youtu.be/iD2fgC74ZtA
+
 ### JS 🌱
 https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP 
 <br>
